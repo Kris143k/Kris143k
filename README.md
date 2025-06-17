@@ -4,7 +4,7 @@
 🔭 **Currently:** Final-year Computer Science student specializing in Web & Cloud Tech  
 🌱 **Learning:** Advanced AWS, Serverless Architecture, and Full-Stack Development  
 💬 **Ask me about:** React, Node.js, or AWS basics!  
-📫 **Reach me:** [Your Email / LinkedIn / Twitter]  
+📫 **Reach me:** [krishpatel98450@gmail.com / https://www.linkedin.com/in/krish-patel-a20788261]  
 
 ---
 
