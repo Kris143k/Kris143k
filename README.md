@@ -1,51 +1,59 @@
-# Hi there, I'm Krish Patel! 👋
+# 👋 Hi, I'm Krish Patel  
+### **💻 BTech CSE (Final Year) | Web Developer | AWS Cloud Enthusiast**  
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+🔭 **Currently:** Final-year Computer Science student specializing in Web & Cloud Tech  
+🌱 **Learning:** Advanced AWS, Serverless Architecture, and Full-Stack Development  
+💬 **Ask me about:** React, Node.js, or AWS basics!  
+📫 **Reach me:** [Your Email / LinkedIn / Twitter]  
 
-I'm a [your profession/role] passionate about [your interests]. Currently, I'm [what you're currently doing] and looking to collaborate on [types of projects].
+---
 
-## 🛠 Technical Skills
+## **🛠️ Tech Stack**  
 
-- **Languages**: JavaScript, Python, Java
-- **Frontend**: React, HTML/CSS, TailwindCSS
-- **Backend**: Node.js, Express, Django
-- **Databases**: MongoDB, PostgreSQL
-- **DevOps & Tools**: Docker, Git, GitHub Actions
-- **Other**: Open Source Contribution, Technical Writing
+### **Frontend & Backend**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
 
-## 🚀 Notable Projects
+### **Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 
-### [Project 1 Name](https://github.com/yourusername/project1)
-📝 Short description of what the project does and why it's cool
+---
 
-### [Project 2 Name](https://github.com/yourusername/project2)
-📝 Short description of what the project does and why it's cool
+## **🚀 Projects**  
 
-## 🏆 Achievements
+### **[Project 1 Name](https://github.com/Kris143k/project1)**  
+✅ Built with: **React + Node.js** | A web app for [brief description]  
 
-- Won [Hackathon Name] for [Project Name]
-- Published a paper on [Topic] in [Journal/Conference]
-- Contributor to [Notable Open Source Project]
-- [Other notable achievement]
+### **[Project 2 Name](https://github.com/Kris143k/project2)**  
+✅ Built with: **AWS + C#** | A cloud-based [brief description]  
 
-## 🌱 Currently Learning
+*(Add more projects if available!)*  
 
-- [Technology/Language you're learning]
-- [Another skill you're developing]
+---
 
-## 💬 Interests
+## **📊 GitHub Stats**  
 
-- Open Source
-- Machine Learning
-- Web Development
-- [Other interests]
+[![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kris143k&show_icons=true&theme=radical)](https://github.com/Kris143k)  
 
-## 📫 How to Reach Me
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kris143k&layout=compact&theme=radical)](https://github.com/Kris143k)  
 
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+*(If you want, add a **coding streak** 🔥 badge:)*  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kris143k&theme=radical)  
+
+---
+
+## **📫 Let's Connect!**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
+
+⭐ **Fun Fact:** I love [your hobby, e.g., gaming, open-source, cloud tech]!  
+
 
 ## 📊 GitHub Stats
 
