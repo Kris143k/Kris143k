@@ -26,11 +26,13 @@
 
 ## **🚀 Projects**  
 
-### **[Project 1 Name](https://github.com/Kris143k/wanderlust)**  
-✅ Built with: **React + Node.js** | A web app for [brief description]  
+### **[Wanderlust](https://github.com/Kris143k/wanderlust)**  
+✅ Built with: **React + Node.js** | A MERN-Based Travel and Stay Platform. WanderLust is a full-stack web application that
+allows users to explore, review, and book unique travel stays and experiences. 
 
-### **[Project 2 Name](https://github.com/Kris143k/whatsapp-chat-analyser)**  
-✅ Built with: **AWS + C#** | A cloud-based [brief description]  
+### **[WeatherApp](https://github.com/Kris143k/weatherapp)**  
+✅ Built with: **React + MaterialUI** | Build a web page that fetches weather data from a weather API based on user-inputted location
+using React and MaterialUI. Display the current weather temperature, and other relevant information.
 
 ---
 
@@ -40,14 +42,10 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kris143k&layout=compact&theme=radical)](https://github.com/Kris143k)  
 
-*(If you want, add a **coding streak** 🔥 badge:)*  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kris143k&theme=radical)  
-
 ---
 
 ## **📫 Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-patel-a20788261/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:krispatel98450@gmail.com)  
 
 ⭐ **Fun Fact:** I love watching movies!  
