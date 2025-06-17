@@ -26,13 +26,11 @@
 
 ## **🚀 Projects**  
 
-### **[Project 1 Name](https://github.com/Kris143k/project1)**  
+### **[Project 1 Name](https://github.com/Kris143k/wanderlust)**  
 ✅ Built with: **React + Node.js** | A web app for [brief description]  
 
-### **[Project 2 Name](https://github.com/Kris143k/project2)**  
+### **[Project 2 Name](https://github.com/Kris143k/whatsapp-chat-analyser)**  
 ✅ Built with: **AWS + C#** | A cloud-based [brief description]  
-
-*(Add more projects if available!)*  
 
 ---
 
@@ -52,11 +50,4 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
 
-⭐ **Fun Fact:** I love [your hobby, e.g., gaming, open-source, cloud tech]!  
-
-
-## 📊 GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kris143k&show_icons=true&theme=radical)](https://github.com/yourusername)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kris143k&layout=compact&theme=radical)](https://github.com/yourusername)
+⭐ **Fun Fact:** I love watching movies!  
